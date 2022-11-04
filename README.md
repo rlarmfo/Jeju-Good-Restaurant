@@ -34,5 +34,5 @@ https://www.data.go.kr/data/15055977/fileData.do
 <br>
 
 ### < 프로젝트 URL >
-- https://kbr1946.github.io/Eat-at-a-exemplary-restaurant
+- https://rlarmfo.github.io/Jeju-Good-Restaurant/
   
